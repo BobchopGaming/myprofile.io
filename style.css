@@ -288,6 +288,40 @@ section{
         padding: 9px 28px;
     }
 }
+@media (max-width: 1024px){
+    .home{
+        height: 130vh;
+    }
+    .share{
+        bottom: 0px;
+        position:fixed;
+        left: 550px;
+        z-index: -98;
+    }
+}
+@media (max-width: 1500px){
+    .home{
+        height: 130vh;
+    }
+    .share{
+        bottom: 0px;
+        position:fixed;
+        left: 550px;
+        z-index: -98;
+    }
+}
+@media (max-width: 2000px){
+    .home{
+        height: 130vh;
+    }
+    .share{
+        bottom: 0px;
+        position:fixed;
+        left: 550px;
+        z-index: -98;
+    }
+}
+
 .home-img img{
     animation: imgg 2s ease-in-out infinite;
     animation-delay: 2s;
